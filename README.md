@@ -1,4 +1,4 @@
-# osm-address-editor-vite
+<!-- # osm-address-editor-vite
 
 ## What is this
 
@@ -63,4 +63,4 @@ npm ci
 npm run dev
 ```
 
-open `http://127.0.0.1:3000/osm-address-editor-vite/`
+open `http://127.0.0.1:3000/osm-address-editor-vite/` -->
