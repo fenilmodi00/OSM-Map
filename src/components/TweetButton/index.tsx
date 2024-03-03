@@ -23,7 +23,7 @@ export const TweetButton: React.VFC<{ viewState?: ViewState }> = ({
 
   return (
     <>
-      {viewState && url && (
+      {/* {viewState && url && (
         <a
           href={url}
           target="_blank"
@@ -41,7 +41,7 @@ export const TweetButton: React.VFC<{ viewState?: ViewState }> = ({
           />
           <span style={{ padding: "0px 3px" }}>Tweet</span>
         </a>
-      )}
+      )} */}
     </>
   );
 };
